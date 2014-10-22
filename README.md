@@ -9,7 +9,7 @@ sometime we met some problems while use icon font:
 
 ## install
 ```
-npm install svgfr -g
+npm install svg-font-reader -g
 ```
 
 ## usage
