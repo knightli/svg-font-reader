@@ -18,7 +18,7 @@ npm install svgfr -g
 - cd to the folder in command line
 - run command:
 ```
-svgr <svgfile>
+svgfr <svgfile>
 ```
 - it will genarate a html file and a ttf file, then open default browser to preview this html page.
 
