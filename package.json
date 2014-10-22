@@ -1,0 +1,26 @@
+{
+  "name": "svg-font-reader",
+  "version": "0.1.0",
+  "description": "read svg and generate a page to show all svg shape and unicode",
+  "bin": {
+    "svgfr": "./bin/svgfr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knightli/svg-font-reader.git"
+  },
+  "author": {
+    "name": "knightli",
+    "email": "knightli@foxmail.com"
+  },
+  "keywords": [
+    "svg",
+    "font",
+    "font-face"
+  ],
+  "dependencies": {
+    "open": "~ 0.0.5",
+    "svg2ttf": "~ 1.2.0"
+  },
+  "license": "MIT"
+}
