@@ -1,6 +1,6 @@
 {
   "name": "svg-font-reader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "read svg and generate a page to show all svg shape and unicode",
   "bin": {
     "svgfr": "./bin/svgfr"
